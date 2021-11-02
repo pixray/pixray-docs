@@ -1,0 +1,53 @@
+# Table of contents
+
+* [Pixray](README.md)
+
+## Introduction
+
+* [CLIP+VQGAN](introduction/clip+vqgan.md)
+* [Pixel Draw](introduction/pixel-draw.md)
+
+## Quickstart
+
+* [Installation](quickstart/installation.md)
+* [Generating an Image](quickstart/generating-an-image.md)
+* [Using demo colabs](quickstart/using-demo-colabs.md)
+* [Using replicate.ai](quickstart/using-replicate.ai.md)
+
+## Tutorial
+
+* [Changing drawers](tutorial/changing-drawers.md)
+* [Changing primary settings](tutorial/changing-primary-settings.md)
+* [Guiding output with prompts](tutorial/guiding-output-with-prompts.md)
+* [Guiding output with images](tutorial/guiding-output-with-images.md)
+* [Guiding output with losses](tutorial/guiding-output-with-losses.md)
+* [Guiding output with image filters (ColorMapper)](tutorial/guiding-output-with-image-filters-colormapper.md)
+* [Making a video using generation frames](tutorial/making-a-video-using-generation-frames.md)
+* [Making a video using functional movements](tutorial/making-a-video-using-functional-movements.md)
+* [Making a video using different prompts (story mode)](tutorial/making-a-video-using-different-prompts-story-mode.md)
+* [Working with weaker machines](tutorial/working-with-weaker-machines.md)
+
+## Advanced
+
+* [Empirical testing - comparing output quality](advanced/empirical-testing-comparing-output-quality.md)
+* [Developing a custom loss](advanced/developing-a-custom-loss.md)
+* [Developing a custom drawer](advanced/developing-a-custom-drawer.md)
+* [Developing a custom image filter](advanced/developing-a-custom-image-filter.md)
+* [Developing a function video movement](advanced/developing-a-function-video-movement.md)
+* [Modifying Pixray](advanced/modifying-pixray.md)
+
+## Docs
+
+* [Primary (impactful) settings](docs/primary-impactful-settings.md)
+* [Fine-tuning settings](docs/fine-tuning-settings.md)
+* [Image control settings](docs/image-control-settings.md)
+* [Misc/Display settings](docs/misc-display-settings.md)
+* [Losses](docs/losses.md)
+* [Functional video movements](docs/functional-video-movements.md)
+* [Image filters](docs/image-filters.md)
+
+## Future
+
+* [make Image Filter subclass - colormapper as subclass](future/make-image-filter-subclass-colormapper-as-subclass.md)
+* [Guide video (move/story) within pixray](future/guide-video-move-story-within-pixray.md)
+* [Batch run for images and video](future/batch-run-for-images-and-video.md)
