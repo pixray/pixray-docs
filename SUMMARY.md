@@ -38,7 +38,7 @@
 
 ## Docs
 
-* [Primary (impactful) settings](docs/primary-impactful-settings.md)
+* [Primary settings](docs/primary-settings.md)
 * [Fine-tuning settings](docs/fine-tuning-settings.md)
 * [Image control settings](docs/image-control-settings.md)
 * [Misc/Display settings](docs/misc-display-settings.md)
