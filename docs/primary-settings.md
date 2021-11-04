@@ -27,7 +27,7 @@ prompts="Squid game| art by Hwang Dong-hyuk"
 
 Examples: more in [this imgur post](https://imgur.com/a/SnSIQRu) - extremely helpful
 
-<img src="primary-settings/image-20211101233930703.png" alt="image-20211101233930703" style="zoom:25%;" />
+![prompt examples](primary-settings/image-20211101233930703.png)
 
 
 ### `aspect`
@@ -56,7 +56,7 @@ Simply explained: `pixel` generates pixel art, `vqgan` generates GAN-images, whi
 
 ~~`vqgan` generates typical raster images, we optimize its latent space which is vector quantized and then passed through the generator network. `clipdraw` and `line_sketch` generates vector images (which are rendered as raster images) with vector graphics, and uses strokes as the objectives to optimize: the location of anchor points on a stroke, the width of a stroke, and the color of the stroke. `pixel` only uses the color of the polygons that make up the individual pixels as optimizing objectives.~~ 
 
-![drawers](primary-settings/drawers.png)
+![drawer](primary-settings/drawers.png)
 
 
 

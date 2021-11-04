@@ -13,7 +13,7 @@ For most where default is `None` it is often fine to not modify it and keep it `
 
 Gradient descend optimizer, effects minimal. For now only effects vqgan. All others defaults to Adam. Seems unimportant to output.
 
-![optms](fine-tuning-settings/optms.png)
+![optimiser](fine-tuning-settings/optms.png)
 
 
 ### `batches`
@@ -79,7 +79,7 @@ clip_models='RN50,ViT-B/16'
 --clip_models 'RN50,ViT-B/16'
 ```
 
-![clip models](fine-tuning-settings/clip%20models.png)
+![clip_models](fine-tuning-settings/clip%20models.png)
 
 
 
@@ -109,7 +109,7 @@ noise_prompt_weights=[0.5,0.5]
 --noise_prompt_seeds 1 2 3 --noise_prompt_weights 1 1 1
 ```
 
-![Canvas 1](fine-tuning-settings/Canvas%201.png)
+![noise prompts](fine-tuning-settings/Canvas%201.png)
 
 
 

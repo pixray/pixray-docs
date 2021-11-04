@@ -16,7 +16,7 @@ This is a scaling multiplier on the ***size*** of the pixels of the image. The f
 
 Pixel  type can be one of `rect`, `rectshift`, `tri`, `diamond`, `hex`, and `knit`. 
 
-![pixeltype](drawer-settings/pixeltype.png)
+![pixel_type](drawer-settings/pixeltype.png)
 
 ## vqgan
 
@@ -39,7 +39,7 @@ One of these:
 
 Seems like these three have limited differences (all three seems to be labeled general images), faceshq and sflckr should be tested sometime soon.
 
-![vqgan models](drawer-settings/vqgan%20models.png)
+![vqgan_model](drawer-settings/vqgan%20models.png)
 
 
 

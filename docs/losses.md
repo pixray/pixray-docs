@@ -20,7 +20,7 @@ custom_loss="saturation"
 
 Creates a loss based on how colorful the image is, encourages the image to become more colorful.
 
-![saturation wpixel](losses/saturation%20wpixel.png)
+![saturation](losses/saturation%20wpixel.png)
 
 ## `Smoothness Loss`
 ```
@@ -31,7 +31,7 @@ custom_loss="smoothness"
 
 > Default: `1`
 
-![sommthness](losses/sommthness.png)
+![smoothness](losses/sommthness.png)
 
 ## `Symmetry Loss`
 
@@ -43,7 +43,7 @@ custom_loss="symmetry"
 
 > Default: `1`
 
-![symemtryloss](losses/symemtryloss.png)
+![symemtry](losses/symemtryloss.png)
 
 ## `Palette Loss`
 
@@ -55,7 +55,7 @@ custom_loss="palette"
 
 > Default: `1`
 
-![palettename](losses/palettename.png)
+![palette](losses/palettename.png)
 
 
 

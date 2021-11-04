@@ -8,7 +8,7 @@
 
 Path or URL of the initial image that is used to jump start the model. having an `init_image` can be very beneficial to the output: it can concentrate the model to a central focus, which it typically has difficulty in.
 
-![init image](image-control-settings/init%20image.png)
+![init_image](image-control-settings/init%20image.png)
 
 
 ### `init_image_alpha` and `init_noise`
@@ -55,7 +55,7 @@ image_prompt_weight = 1.0
 image_prompt_shuffle = True
 ```
 
-![image prompt](image-control-settings/image%20prompt.png)
+![image_prompts](image-control-settings/image%20prompt.png)
 
 
 
@@ -85,7 +85,7 @@ Spot prompts is a misleading name: a more accurate name may be masked prompts. W
 
 Spot prompts also has the same input logic as normal prompts.
 
-![spot prompts showcase](image-control-settings/spot%20prompts%20showcase.png)
+![spot_prompts](image-control-settings/spot%20prompts%20showcase.png)
 
 
 
@@ -107,4 +107,4 @@ The name says it all: every `overlay_every` number of iterations, it does an ove
 
 Seems not important. Not an image offset, but a iteration offset. For `overlay_every`=10, having offset at 5 makes it overlay at 5,15,25 etc. iterations.
 
-![overlay exp2](image-control-settings/overlay%20exp2.png)
+![overlay_image](image-control-settings/overlay%20exp2.png)

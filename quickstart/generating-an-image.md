@@ -29,5 +29,5 @@ Now with `settings`, we can initialize pixray's session (global) settings, and r
 
 By default, the WxH for an image is 384x208, and it runs for 250 iterations on VQGAN. Expected output may look like this:
 
-<img src="generating-an-image/download%20-%202021-11-01T214340.344.png">hoi</img>
+<img src="generating-an-image/download%20-%202021-11-01T214340.344.png"/>
 
