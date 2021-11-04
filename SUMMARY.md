@@ -14,6 +14,16 @@
 * [Using demo colabs](quickstart/using-demo-colabs.md)
 * [Using replicate.ai](quickstart/using-replicate.ai.md)
 
+## Docs
+
+* [Primary settings](docs/primary-settings.md)
+* [Fine-tuning settings](docs/fine-tuning-settings.md)
+* [Image control settings](docs/image-control-settings.md)
+* [Misc/Display settings](docs/misc-display-settings.md)
+* [Losses](docs/losses.md)
+* [Functional video movements](docs/functional-video-movements.md)
+* [Image filters](docs/image-filters.md)
+
 ## Tutorial
 
 * [Changing drawers](tutorial/changing-drawers.md)
@@ -36,15 +46,6 @@
 * [Developing a function video movement](advanced/developing-a-function-video-movement.md)
 * [Modifying Pixray](advanced/modifying-pixray.md)
 
-## Docs
-
-* [Primary settings](docs/primary-settings.md)
-* [Fine-tuning settings](docs/fine-tuning-settings.md)
-* [Image control settings](docs/image-control-settings.md)
-* [Misc/Display settings](docs/misc-display-settings.md)
-* [Losses](docs/losses.md)
-* [Functional video movements](docs/functional-video-movements.md)
-* [Image filters](docs/image-filters.md)
 
 ## Future
 
