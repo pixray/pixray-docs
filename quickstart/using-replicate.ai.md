@@ -104,14 +104,14 @@
 
 # Generating online (without installation)
 
-The models at [http://pixray.gob.io](http://pixray.gob.io) uses [https://replicate.com](https://replicate.com) as it's backend for generation.&#x20;
+The models at [http://pixray.gob.io](http://pixray.gob.io) uses [https://replicate.com](https://replicate.com) as it's backend for generation.
 
-[![](<../.gitbook/assets/text2image (1).png>)](http://pixray.gob.io/text2image/)
+[![](<../.gitbook/assets/text2image copy.jpg>)](http://pixray.gob.io/text2image/)
 
-[![](<../.gitbook/assets/2021-11-23-Gob.io-pixray\_text2pixel (1).png>)](http://pixray.gob.io/text2pixel/)
+[![](<../.gitbook/assets/text2pixel copy.jpg>)](http://pixray.gob.io/text2pixel/)
 
-[![](<../.gitbook/assets/genesis (1).png>)](http://pixray.gob.io/genesis/)
+[![](<../.gitbook/assets/genesis copy.jpg>)](http://pixray.gob.io/genesis/)
 
-[![](<../.gitbook/assets/tiler (1).png>)](http://pixray.gob.io/tiler/)
+[![](<../.gitbook/assets/tiler copy.jpg>)](http://pixray.gob.io/tiler/)
 
 The website is here, it takes yaml as input, and the syntax is approximately the same as bash.
