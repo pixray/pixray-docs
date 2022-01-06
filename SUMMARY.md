@@ -1,18 +1,17 @@
 # Table of contents
 
-* [Pixray Docs](README.md)
+* [Pixray](README.md)
 
 ## Introduction
 
-* [CLIP+VQGAN](introduction/clip+vqgan.md)
-* [Pixel Draw](introduction/pixel-draw.md)
+* [Introduction to Pixray](introduction/clip+vqgan.md)
 
 ## Quickstart
 
 * [Installation](quickstart/installation.md)
 * [Generating an Image](quickstart/generating-an-image.md)
 * [Using demo colabs](quickstart/using-demo-colabs.md)
-* [Using replicate.ai](quickstart/using-replicate.ai.md)
+* [Generating online (without installation)](quickstart/using-replicate.ai.md)
 
 ## Docs
 
@@ -46,7 +45,6 @@
 * [Developing a custom image filter](advanced/developing-a-custom-image-filter.md)
 * [Developing a function video movement](advanced/developing-a-function-video-movement.md)
 * [Modifying Pixray](advanced/modifying-pixray.md)
-
 
 ## Future
 
