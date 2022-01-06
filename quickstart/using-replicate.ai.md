@@ -106,12 +106,12 @@
 
 The models at [http://pixray.gob.io](http://pixray.gob.io) uses [https://replicate.com](https://replicate.com) as it's backend for generation.&#x20;
 
-[![](<../.gitbook/assets/text2image (1).png>)](http://pixray.gob.io/text2image/)
+![](<../.gitbook/assets/text2image (1).png>)
 
-[![](<../.gitbook/assets/2021-11-23-Gob.io-pixray\_text2pixel (1).png>)](http://pixray.gob.io/text2pixel/)
+![](<../.gitbook/assets/2021-11-23-Gob.io-pixray\_text2pixel (1).png>)
 
-[![](<../.gitbook/assets/genesis (1).png>)](http://pixray.gob.io/genesis/)
+![](<../.gitbook/assets/genesis (1).png>)
 
-[![](<../.gitbook/assets/tiler (1).png>)](http://pixray.gob.io/tiler/)
+![](<../.gitbook/assets/tiler (1).png>)
 
 The website is here, it takes yaml as input, and the syntax is approximately the same as bash.
