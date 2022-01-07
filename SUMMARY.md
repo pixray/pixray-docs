@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pixray](README.md)
+* [Documentation for Pixray](README.md)
 
 ## Introduction
 
