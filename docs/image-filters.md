@@ -24,7 +24,7 @@ Multiple elements are separated by semicolons, `;`. For example: `"red->white; g
 
 A singular color can be specified using a bracket `[]`. For example: `"red->white; [green]"`
 
-RGB values can only be specified within brackets as single colors, but not in ramps, unfortunately.
+new feature: the palette can be an image or a url link. for local images, there must be a `@` in front of the filepath like `@image.png`, for webpages you need to include the `http` or `https` portion of the link. like `https://example.com/image.png`
 
 ![palettes](image-filters/palettes.png)
 
