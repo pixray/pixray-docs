@@ -16,7 +16,7 @@
 ## Docs
 
 * [Primary settings](docs/primary-settings.md)
-* [Fine-tuning settings](docs/fine-tuning-settings.md)
+* [Fine settings](docs/fine-tuning-settings.md)
 * [Image control settings](docs/image-control-settings.md)
 * [Drawer Settings](docs/drawer-settings.md)
 * [Misc/Display settings](docs/misc-display-settings.md)
