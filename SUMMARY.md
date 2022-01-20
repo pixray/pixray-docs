@@ -12,6 +12,7 @@
 * [Generating an Image](quickstart/generating-an-image.md)
 * [Using demo colabs](quickstart/using-demo-colabs.md)
 * [Generating online (without installation)](quickstart/using-replicate.ai.md)
+* [FAQ](quickstart/FAQ.md)
 
 ## Docs
 
