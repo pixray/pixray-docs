@@ -13,3 +13,5 @@ Pixray can be run from python, and from the command line.
 Join the [discussion on discord](https://discord.gg/x2g9TWrNKe).
 
 Check out more in the [official repository](https://github.com/pixray/pixray), and the [README](https://github.com/pixray/pixray/blob/master/README.md).
+
+Now in the official [pixray org](https://github.com/pixray)
