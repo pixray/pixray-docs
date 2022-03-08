@@ -18,7 +18,7 @@ custom_loss="saturation"
 
 > Default: `1`
 
-Creates a loss based on how colorful the image is, encourages the image to become more colorful.
+Creates a loss based on how colorful the image is, encourages the image to become more colorful. A negative value will reduce saturation.
 
 ![saturation](losses/saturation%20wpixel.png)
 
@@ -39,7 +39,7 @@ custom_loss="smoothness"
 custom_loss="symmetry"
 ```
 
-### `saturation_weight`
+### `symmetry_weight`
 
 > Default: `1`
 
