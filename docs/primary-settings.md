@@ -15,7 +15,7 @@ Usage:
 > Python
 
 ```python
-prompts="suicide at the brooklyn bridge | film noir"
+prompts="rain falls at the brooklyn bridge | film noir"
 prompts="Squid game| art by Hwang Dong-hyuk"
 ```
 
